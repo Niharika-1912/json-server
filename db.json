@@ -1,9 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "regionDetails": {
+  "region": 3,
+  "rating":4,
+  "workorders": 46,
+  "technicians": 21,
+    "hours": 12,
 }
+  }
